@@ -1,0 +1,2 @@
+# .github
+OSGeo Korean Chapter
