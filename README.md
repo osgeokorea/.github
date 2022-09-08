@@ -1,2 +1,3 @@
-# .github
-OSGeo Korean Chapter
+## OSGeo Korean Chapter
+
+![screenshot](products.png)
