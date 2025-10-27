@@ -1,3 +1,3 @@
 ## OSGeo Korean Chapter
 
-![screenshot](/profile/osgeo.kr-logo.png)
+![screenshot](/profile/osgeo.kr-logo-full.png)
